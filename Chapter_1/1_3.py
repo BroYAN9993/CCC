@@ -18,6 +18,7 @@ def removeDuplicates(string: str) -> str:
             ans += string[i]
     return ans
 
+# 
 
 if __name__ == '__main__':
     s1 = "aaaaaa"
